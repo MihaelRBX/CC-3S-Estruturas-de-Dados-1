@@ -1,8 +1,0 @@
-10 mov a 5
-20 mov b 3
-30 add a b
-40 out a
-50 inc b
-60 out b
-70 dec a
-80 out a

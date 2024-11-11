@@ -1,0 +1,6 @@
+10 mov a 10
+20 mov b -1
+30 dec a
+40 out a
+50 jnz a 30
+60 out b

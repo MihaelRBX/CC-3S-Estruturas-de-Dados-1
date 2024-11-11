@@ -1,0 +1,10 @@
+10 mov a 6
+20 mov b 3
+30 mul a b
+40 out a
+50 mov c 4
+60 div a c
+70 out a
+80 mov d 0
+90 jnz d 100
+100 out b

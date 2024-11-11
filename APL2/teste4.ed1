@@ -1,0 +1,9 @@
+10 mov x 5
+20 mov y 0
+30 jnz y 50
+40 out x
+50 mov y 10
+60 jnz y 80
+70 mov z 3
+80 out y
+90 out z

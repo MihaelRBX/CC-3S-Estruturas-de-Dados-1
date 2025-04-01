@@ -1,5 +1,9 @@
-// Aluno: Mihael Rommel B. Xavier
-// RA: 10239617
+/* Alunos:
+Mihael Rommel B. Xavier RA: 10239617
+Lucas Akio RA: 10425346
+Kleber Gadelha Ponte Souza Filho RA: 10321335
+Caio Guilherme dos Santos Silva RA: 10420097
+*/
 
 import java.util.Scanner;
 
